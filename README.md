@@ -1,2 +1,2 @@
 # RayTracer-in-C
-* Windows edition of BC-RayTracer *
+ Windows edition of BC-RayTracer 
