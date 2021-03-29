@@ -4,6 +4,8 @@
 
 ## Usage
 
+First, clone this repo.
+
 ` git clone https://github.com/NUISTGY/RayTracer-in-C.git `
 
 Using g++ command with O3 optimization which is necessary.
@@ -13,4 +15,5 @@ Using g++ command with O3 optimization which is necessary.
 Then, Redirect to .ppm format.
 
 ` a.out > output.ppm `
+
 Run show.py to view the output image.
