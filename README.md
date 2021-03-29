@@ -16,6 +16,6 @@
 
     ` a.out > output.ppm `
 
-* Run show.py to view the output image.
+* Run show.py to view the output image:
 
 ![](https://github.com/NUISTGY/RayTracer-in-C/blob/main/show.png)
