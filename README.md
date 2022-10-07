@@ -10,7 +10,7 @@
 
 * Using g++ command with O3 optimization which is necessary.
 
-    ` g++ -O3 Raytracer.cpp -o a.out `
+    ` g++ -O3 Raytracer.cpp -o a.out`
 
 * Then, Redirect to .ppm format.
 
